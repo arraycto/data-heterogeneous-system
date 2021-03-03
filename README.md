@@ -51,16 +51,16 @@ data-heterogeneous-system
 ```
 
 ## 系统截图
-![](img/介绍页.png)
-![](img/用户注册页.png)
-![](img/企业注册页.png)
-![](img/首页.png)
-![](img/用户管理.png)
-![](img/用户信息.png)
-![](img/图表使用.jpg)
-![](img/图表预览.png)
-![](img/监控.png)
-![](img/预警.png)
+![](img/介绍页-tuya.png)
+![](img/用户注册页-tuya.png)
+![](img/企业注册页-tuya.png)
+![](img/首页-tuya.png)
+![](img/用户管理-tuya.png)
+![](img/用户信息-tuya.png)
+![](img/图表使用-tuya.jpg)
+![](img/图表预览-tuya.png)
+![](img/监控-tuya.png)
+![](img/预警-tuya.png)
 
 ## 参考链接
 https://blog.csdn.net/liukai31415926/article/details/67669123
