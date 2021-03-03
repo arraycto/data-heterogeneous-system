@@ -27,7 +27,7 @@
 - MySql、Redis、MongoDB、influxdb：数据库
 - Presto：异构数据源同步
 
-![](数据异构系统.png)
+![](img/数据异构系统.png)
 
 ## 项目介绍
 采用基于服务的数据整合平台。可以在源系统较小改动的情况，有效整合数据，实现各数据源的逻辑整合
@@ -49,6 +49,19 @@ data-heterogeneous-system
  ├── sys-common 通用模块
  └── data-heterogeneous-system.iml idea文件
 ```
+
+## 系统截图
+![](img/介绍页.png)
+![](img/用户注册页.png)
+![](img/企业注册页.png)
+![](img/首页.png)
+![](img/用户管理.png)
+![](img/用户信息.png)
+![](img/图表使用.jpg)
+![](img/图表预览.png)
+![](img/监控.png)
+![](img/预警.png)
+
 ## 参考链接
 https://blog.csdn.net/liukai31415926/article/details/67669123
 
